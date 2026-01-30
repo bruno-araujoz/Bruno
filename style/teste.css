@@ -1,0 +1,22 @@
+body{
+    color: brown;
+}
+h1{
+    color: red;
+}
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box; /* Optional, but highly recommended */
+}
+
+
+.header{
+    background-color: black;
+    height: 20vh;
+    display: flex;
+    justify-content: space-between;
+    padding: 20px;
+
+}
+
